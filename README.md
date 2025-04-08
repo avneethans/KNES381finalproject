@@ -14,6 +14,8 @@
 
 This section will have my analysis tool using body performance data.
 
+[ Open Excel File](KNES%20381%20Excel%20Assignment%20.xlsx)
+
 ---
 
 ## Scratch Maze
